@@ -1,0 +1,11 @@
+{
+  "name": "knex-memory-leak-poc",
+  "version": "0.0.0",
+  "description": "Proof of concept that knex has a memory leak issue",
+  "main": "index.js",
+  "author": "Chris Dufour",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.15.2"
+  }
+}
