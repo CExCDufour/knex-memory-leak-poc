@@ -1,2 +1,4 @@
 ### Node / NPM
 node_modules
+### SQLite3
+mydb.sqlite
